@@ -54,6 +54,6 @@ displaySkillString = () => {
         //output skillz string in jumbotron
         document.querySelector("#skillz").innerHTML = randomSkillHighlighted();
         
-    }, 1500);
+    }, 1000);
 
 }
