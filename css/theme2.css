@@ -118,6 +118,32 @@
     b,strong{
         -weight:bolder
     }
+
+    i {
+        font-size: 2.2rem;
+    }
+
+    /* .para {
+        color: black;
+        opacity: 1.0;
+    }
+
+    #para1 {
+        opacity: 0.5;
+    }
+
+    #para2 {
+        opacity: 0.6;
+    }
+
+    #para3 {
+        opacity: 0.7;
+        
+    }
+*/
+    #para4 {
+        opacity: 0.8; 
+    }
     
     small{
         font-size:80%
